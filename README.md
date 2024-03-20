@@ -52,6 +52,8 @@ map.html
 
 ```
 ```
+lake.html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,6 +74,7 @@ map.html
 
 ```
 ```
+temple.html
 
 <!DOCTYPE html>
 <html>
@@ -97,6 +100,8 @@ map.html
 
 ```
 ```
+airport.html
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -121,6 +126,8 @@ map.html
 
 ```
 ```
+pillar.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -145,6 +152,8 @@ map.html
 
 ```
 ```
+lighthouse.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
